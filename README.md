@@ -1,14 +1,16 @@
 ### Whoami 
 
-Alfredo González
+Alfredo González 🏴‍☠️
 
 ## About:
-- Native spanish speaker from México
-- Intereted in data related topics
+- 🌮 Native spanish speaker from México
+- 👨🏻‍💻 Data oriented programing languages
+- 👨🏻‍🔬 Intereted in data science, analisis and engineering related topics 
+- 🎮 Gamer
 
 ## Skills:
 - Python
-- SQL
+- SQL 
 - Command Line
 
 ### Contact:
