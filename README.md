@@ -21,7 +21,7 @@ Alfredo González
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/database.png"/>
-  <img src="https://img.icons8.com/ios/50/000000/sql.png"/>
+  <img src="https://img.icons8.com/material-outlined/24/000000/sql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
   <img src="https://img.icons8.com/color/48/000000/console.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
