@@ -12,7 +12,7 @@ Alfredo González
 - Command Line
 
 ### Contact:
-[<img align="left" alt="codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codewars" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codewars.svg" />][codewars]
 
 <br />
