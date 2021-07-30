@@ -10,7 +10,6 @@ Alfredo González
 - Python
 - SQL
 - Command Line
-- Native Spanish
 
 ### Contact:
 [<img align="left" alt="codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />][linkedin]
@@ -19,7 +18,7 @@ Alfredo González
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2ca1e82350fe8e3517d3494/topics/terminal/terminal.png" />][terminal]
+
 
 <br />
 <br />
