@@ -18,7 +18,9 @@ Alfredo González
 <br />
 
 ### Languages and Tools:
-
+<p align="left"
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> 
+/>
 
 <br />
 <br />
