@@ -6,7 +6,6 @@ Alfredo González
 - 🌮 Native spanish speaker from México
 - 👨🏻‍💻 Data oriented programing languages
 - 👨🏻‍🔬 Interested in data science, analisis and engineering related topics 
-- 🎮 Gamer
 
 ## Skills:
 - Python
