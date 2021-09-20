@@ -8,9 +8,12 @@ Alfredo González
 - 👨🏻‍🔬 Interested in data science, analisis and engineering related topics 
 
 ## Skills:
-- Python
-- SQL 
-- Command Line
+- Python with Pandas and built-in modules
+- SQL Data Cleaning / Data Transformation
+- Linux Basic Commands / SSH
+- Relational Database Managment
+- Excel ETL processes
+- Fake data generation
 
 ### Contact:
 [<img align="left" alt="codewars" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
