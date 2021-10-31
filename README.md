@@ -5,15 +5,14 @@ Alfredo González
 ## About:
 - 🌮 Native spanish speaker from México
 - 👨🏻‍💻 Data oriented programing languages
-- 👨🏻‍🔬 Interested in data science, analisis and engineering related topics 
+- 👨🏻‍🔬 Interested in data engineering
 
 ## Skills:
-- Python with Pandas and built-in modules
+- Python, Pandas
 - SQL Data Cleaning / Data Transformation
 - Linux Basic Commands / SSH
 - Relational Database Managment
 - Excel ETL processes
-- Fake data generation
 
 ### Contact:
 [<img align="left" alt="codewars" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
