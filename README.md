@@ -3,7 +3,7 @@ whoami
 Alfredo González
 
 ## About:
-- 🌮 Native spanish speaker from México
+- 🌮 From México
 - 👨🏻‍💻 Data oriented programing languages
 - 👨🏻‍🔬 Interested in data engineering
 
